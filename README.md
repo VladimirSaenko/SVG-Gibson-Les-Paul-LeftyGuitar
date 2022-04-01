@@ -1,4 +1,4 @@
-# SVG-Gibson-LesPaul-LeftyGuitar
+# SVG-Gibson-Les-Paul-LeftyGuitar
 
 ## Кастомная гитара Gibson Les Paul | Левосторонняя
 
